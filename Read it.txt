@@ -1,0 +1,8 @@
+The template can be used in online and offline ways. For the former (highly
+recommended), Overleaf (https://www.overleaf.com) is a collaborative cloudbased LaTeX editor used for writing, editing and publishing scientific documents,
+which is much easy to use and friendly.
+For the latter, one can use Texstudio, which is a very popular yet free software
+package (https://www.texstudio.org/). When using Texstudio, the compiling command is Xelatex. To make Texstudio work, one need to first install Miktex,
+see https://miktex.org/. We happen to find, rather rarely, that a successful
+compiling may depend on the version of Texstudio. In any case, we recommend
+the latest version of Texstudio.
